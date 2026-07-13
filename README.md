@@ -1,126 +1,130 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Prajval%20Injar&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20%26%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,50:2563eb,100:38bdf8&text=Prajval%20Injar&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Science%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
 
-<a href="https://github.com/Prajvalinjar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FCFF&center=true&vCenter=true&width=600&lines=Data+Science+%26+Full+Stack+Developer;Building+AI-powered+Web+Apps;Python+%7C+React.js+%7C+Next.js+%7C+Node.js;Turning+Data+into+Real+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+Powered+Applications;Full+Stack+Developer;Data+Science+Enthusiast;Python+%7C+Next.js+%7C+React+%7C+Node.js;Always+Building+Something+Awesome"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Full--Time-success?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Prajvalinjar&style=for-the-badge&color=38bdf8"/>
+<img src="https://img.shields.io/github/followers/Prajvalinjar?style=for-the-badge&logo=github&color=38bdf8"/>
+
+</div>
+
+# 💫 About Me
+
+🚀 Data Science & Full Stack Developer passionate about building AI-powered products.
+
+- 🔭 Currently building **ResumeIQ AI**
+- 🌱 Learning advanced AI, scalable backend systems and cloud deployment
+- 💼 Looking for Internship & Full-Time opportunities
+- ⚡ Love solving real-world problems with technology
+- 🎯 Goal: Build impactful AI products used by thousands
+
+---
+
+# 🚀 Featured Project
+
+## ResumeIQ AI
+
+> AI-powered Resume Analyzer with ATS scoring and personalized feedback.
+
+<p align="center">
+
+<a href="https://github.com/Prajvalinjar/resumeiq-ai">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Prajvalinjar&repo=resumeiq-ai&theme=tokyonight"/>
 </a>
 
-<br/>
+</p>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=black&labelColor=0ea5e9" alt="Open to Work"/>
+| Layer | Technology |
+|-------|------------|
+| Frontend | Next.js, React, HTML5, CSS3, Bootstrap |
+| Backend | Node.js |
+| Database | Supabase, MySQL |
+| AI | Python, Pandas, NumPy |
+| Deployment | Vercel |
 
-<br/><br/>
+### 🔗 Links
 
-<img src="https://komarev.com/ghpvc/?username=Prajvalinjar&label=Profile%20Views&color=7dd3fc&style=flat-square" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Prajvalinjar?label=Followers&style=flat-square&color=7dd3fc" alt="Followers"/>
+- 🌐 Live Demo: https://resumeiq-ai-self.vercel.app/
+- 💻 Repository: https://github.com/Prajvalinjar/resumeiq-ai
 
-</div>
+---
 
-<br/>
+# 💻 Tech Stack
 
-## 👋 Who I Am
+### Languages
 
-```typescript
-const prajvalInjar = {
-  title: "Data Science & Full Stack Developer",
-  stack: {
-    languages: ["Python", "Java", "JavaScript", "SQL"],
-    database: ["MySQL", "Supabase"],
-    frontend: ["HTML5", "CSS3", "React.js", "Next.js", "Bootstrap"],
-    backend: ["Node.js"],
-    librariesAndOthers: ["Pandas", "NumPy", "OpenCV"],
-    toolsAndPlatforms: ["Git", "GitHub", "VS Code", "Linux", "Vercel"],
-  },
-  launchedProjects: ["resumeiq-ai"],
-  certifications: [],
-  status: "Building AI-powered products & sharpening full-stack skills",
-  openTo: ["Full-time roles", "Data Science opportunities", "Full Stack projects", "Collaboration"],
-};
-```
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,sql"/>
+</p>
 
-<br/>
+### Frontend
 
-## 🚀 Featured Projects
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap"/>
+</p>
 
-### 🔹 ResumeIQ AI
+### Backend
 
-Developed an AI-powered resume analysis platform evaluating user profiles with ATS-based scoring and personalized feedback.
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Prajvalinjar&repo=resumeiq-ai&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="ResumeIQ AI Repo Pin"/>
+### Database & AI
 
-| Layer      | Technology                     |
-|------------|---------------------------------|
-| Frontend   | Next.js, React.js, Bootstrap    |
-| Backend    | Node.js                         |
-| AI/Logic   | Python, Pandas, NumPy, OpenCV   |
-| Database   | Supabase                        |
-| Deployment | Vercel                          |
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,supabase"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,opencv"/>
+</p>
 
-🔗 **Live:** [resumeiq-ai-self.vercel.app](https://resumeiq-ai-self.vercel.app/) &nbsp;|&nbsp; 💻 **Code:** [github.com/Prajvalinjar/resumeiq-ai](https://github.com/Prajvalinjar/resumeiq-ai)
+### Tools
 
-<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel"/>
+</p>
 
-## 🛠️ Tech Stack
+---
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,js,sql" alt="Languages"/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap" alt="Frontend"/>
-
-**Backend/Infra**
-
-<img src="https://skillicons.dev/icons?i=nodejs" alt="Backend"/>
-
-**AI/DB**
-
-<img src="https://skillicons.dev/icons?i=opencv,mysql,supabase" alt="AI/DB"/>
-
-**Dev Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel" alt="Dev Tools"/>
-
-<br/>
-
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prajvalinjar&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajvalinjar&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" width="49%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prajvalinjar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajvalinjar&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com/?user=Prajvalinjar&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Prajvalinjar&theme=tokyonight&hide_border=true"/>
 
-<br/><br/>
+<img src="https://github-profile-trophy.vercel.app/?username=Prajvalinjar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Prajvalinjar&theme=nord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajvalinjar&theme=nord&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Contribution Activity Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajvalinjar&theme=tokyo-night"/>
 
 </div>
 
-<br/>
+---
 
-## 🤝 Connect With Me
+# 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://linkedin.com/in/prajval-injar-8529aa2b2">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
+
 <a href="mailto:injarprajval@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:38bdf8,100:0f172a"/>
 
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer" width="100%"/>
