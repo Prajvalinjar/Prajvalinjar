@@ -15,7 +15,7 @@
 
 🚀 Data Science & Full Stack Developer passionate about building AI-powered products.
 
-- 🔭 Currently building **ResumeIQ AI**
+- 🔭 Recently  built **ResumeIQ AI**
 - 🌱 Learning advanced AI, scalable backend systems and cloud deployment
 - 💼 Looking for Internship & Full-Time opportunities
 - ⚡ Love solving real-world problems with technology
