@@ -1,499 +1,217 @@
-I want you to professionally redesign and polish my GitHub Profile README.md.
+<div align="center">
 
-IMPORTANT:
-- This is ONLY a GitHub profile README redesign.
-- DO NOT modify any application source code.
-- DO NOT modify package.json, backend, frontend, database, APIs, deployment configuration, or project functionality.
-- DO NOT invent projects, technologies, achievements, certifications, statistics, or experience.
-- Preserve all verified information already present in my README.
-- The goal is to make the profile look like a premium, modern, recruiter-friendly developer portfolio.
-- Keep the README technically valid and compatible with GitHub Markdown rendering.
-- Return the COMPLETE updated README.md in ONE SINGLE CODE BLOCK so I can copy it directly.
-- Do not split the answer into multiple code blocks.
-- Do not provide partial snippets.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:0891b2&text=Prajval%20Injar&fontColor=38bdf8&fontSize=48&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Data%20Science%20|%20AI&descAlignY=55&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
-==================================================
-MY VERIFIED PROFILE LINKS
-==================================================
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=560&lines=Building+AI-Powered+Applications;Engineering+Full-Stack+Products;Turning+Ideas+Into+Working+Systems;React+%7C+Node.js+%7C+Python+%7C+SQL;Always+Learning.+Always+Building." alt="Typing SVG" />
+</a>
 
-Portfolio:
-https://www.prajvalinjar.blog/
-
-LinkedIn:
-https://www.linkedin.com/in/prajval-injar-8529aa2b2
-
-Email:
-injarprajval@gmail.com
-
-GitHub:
-https://github.com/Prajvalinjar
-
-StoreRate Live:
-https://storerate-tau.vercel.app/
-
-StoreRate Repository:
-https://github.com/Prajvalinjar/StoreRate
-
-ResumeIQ AI Live:
-https://resumeiq-ai-self.vercel.app/
-
-ResumeIQ AI Repository:
-https://github.com/Prajvalinjar/resumeiq-ai
-
-GitHub username:
-Prajvalinjar
-
-==================================================
-CURRENT PROFILE POSITIONING
-==================================================
-
-Primary positioning:
-
-Full Stack Developer | Data Science | AI
-
-The README should communicate that I build practical software products combining:
-
-- Full Stack Development
-- Data
-- AI
-- Backend Systems
-- Databases
-- Cloud Deployment
-
-Do NOT make the profile sound like I am only a Data Analyst.
-
-==================================================
-IMPORTANT VISUAL FEEDBACK
-==================================================
-
-The current README top section is already visually good, but it has two problems:
-
-1. Portfolio, LinkedIn, Email, StoreRate and GitHub should look clearly like clickable navigation links, NOT like cards or badges.
-
-2. There is too much vertical whitespace between:
-   - typing animation
-   - Connect section
-   - Explore section
-   - Open To / Profile Views badges
-
-Tighten the spacing while keeping the design breathable.
-
-The top section should feel like a polished developer landing page.
-
-Desired visual hierarchy:
-
-Prajval Injar
-Full Stack Developer | Data Science | AI
-
-[typing animation]
-
-🔗 Connect
-
-Portfolio • LinkedIn • Email
-
-🚀 Projects & Code
-
-StoreRate Live • GitHub
-
-[Open to Internships & Full-Time] [Profile Views]
-
-Do NOT use large rectangular Shields badges for Portfolio, LinkedIn, Email, StoreRate and GitHub in the top navigation area.
-
-Use simple Markdown/HTML text links instead.
-
-==================================================
-TOP SECTION DESIGN
-==================================================
-
-Keep the futuristic capsule-render hero banner.
-
-Use:
-
-- Dark navy / black background
-- Blue / cyan futuristic accent
-- Clean typography
-- Minimal visual noise
-- Professional spacing
-- Recruiter-friendly hierarchy
-
-Keep the typing animation, but do not allow it to create excessive vertical space.
-
-Hero:
-
-Prajval Injar
-
-Subtitle:
-
-Full Stack Developer | Data Science | AI
-
-Typing lines can include:
-
-Building AI-Powered Applications
-Engineering Full-Stack Products
-Turning Ideas Into Working Systems
-React | Node.js | Python | SQL
-Always Learning. Always Building.
-
-==================================================
-CONNECT SECTION
-==================================================
-
-Use:
+<br/>
 
 ### 🔗 Connect
 
-Then use simple clickable text links:
-
-Portfolio • LinkedIn • Email
-
-Example style:
-
 <a href="https://www.prajvalinjar.blog/">🌐 Portfolio</a>
 &nbsp;•&nbsp;
-<a href="https://www.linkedin.com/in/prajval-injar-8529aa2b2">in LinkedIn</a>
+<a href="https://www.linkedin.com/in/prajval-injar-8529aa2b2">💼 LinkedIn</a>
 &nbsp;•&nbsp;
 <a href="mailto:injarprajval@gmail.com">✉️ Email</a>
 
-Do NOT turn these into large cards.
-
-The actual link name itself should be clickable.
-
-==================================================
-PROJECTS & CODE SECTION
-==================================================
-
-Change the heading from:
-
-Explore
-
-to:
-
 ### 🚀 Projects & Code
-
-Use:
 
 <a href="https://storerate-tau.vercel.app/">🚀 StoreRate Live</a>
 &nbsp;•&nbsp;
 <a href="https://github.com/Prajvalinjar">💻 GitHub</a>
 
-Again:
-- no large badge cards
-- no duplicated labels
-- no unnecessary rectangles
-- clear clickable links
-
-==================================================
-STATUS BADGES
-==================================================
-
-Keep only useful status badges below the navigation links:
-
-- Open To Internships & Full-Time
-- Profile Views
-
-These can remain as Shields badges.
-
-Example:
+<br/>
 
 <img src="https://img.shields.io/badge/🟢%20Open%20To-Internships%20%26%20Full--Time-16a34a?style=for-the-badge"/>
-
 <img src="https://komarev.com/ghpvc/?username=Prajvalinjar&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS"/>
 
-Keep them on one line where possible.
+</div>
 
-==================================================
-ABOUT ME
-==================================================
+---
 
-Create a concise professional section:
+## 👋 Hey, I'm Prajval
 
-# 👋 Hey, I'm Prajval
+I'm a **Full Stack Developer** and **Data Science enthusiast** who builds practical products by combining modern web technologies, data, and AI. I enjoy taking an idea all the way to a working, deployed product.
 
-Describe me as a Full Stack Developer and Data Science enthusiast who builds practical products combining modern web technologies, data and AI.
+<div align="center">
 
-Keep the following concept:
+**Idea → Interface → Backend → Database → Intelligence → Deployment → Working Product**
 
-Idea → Interface → Backend → Database → Intelligence → Deployment → Working Product
+</div>
 
-Avoid exaggerated claims such as:
-- expert
-- senior
-- professional engineer
-- thousands of users
-- production-scale company systems
+---
 
-unless already verified.
+## 🎯 Current Focus
 
-==================================================
-CURRENT FOCUS
-==================================================
+| Area | Focus |
+|---|---|
+| **Full Stack** | React, Next.js, Node.js, Express, REST APIs |
+| **Databases** | PostgreSQL, MySQL, Supabase, Prisma |
+| **Data** | Python, Pandas, NumPy, Data Analysis |
+| **AI** | AI-powered applications, ML concepts |
+| **Cloud** | Vercel, Render, deployment and integration |
+| **Engineering** | Git, GitHub, clean and maintainable code |
 
-Keep a clean table:
+---
 
-Area | Focus
+## 🌟 Featured Projects
 
-Full Stack:
-React, Next.js, Node.js, Express, REST APIs
-
-Databases:
-PostgreSQL, MySQL, Supabase, Prisma
-
-Data:
-Python, Pandas, NumPy, Data Analysis
-
-AI:
-AI-powered applications, ML concepts
-
-Cloud:
-Vercel, Render, deployment and integration
-
-Engineering:
-Git, GitHub, clean and maintainable code
-
-==================================================
-FEATURED PROJECTS
-==================================================
-
-Keep StoreRate as the PRIMARY featured project.
-
-Project:
-
-StoreRate — Reputation & Store Rating Platform
-
-Describe it as:
+### 🏪 StoreRate — Reputation & Store Rating Platform
 
 A full-stack platform for store discovery, customer ratings, reputation analytics, and role-based administration.
 
-Include the verified roles:
+**Roles & Capabilities**
 
-User:
-- Discover stores
-- Search
-- Rate stores
-- Manage profile
+- **User** — Discover stores, search, rate stores, manage profile
+- **Store Owner** — Monitor reputation, ratings, trends, store performance
+- **Admin** — Manage users, manage stores, platform-level analytics
 
-Store Owner:
-- Monitor reputation
-- Ratings
-- Trends
-- Store performance
+**Key Features**
 
-Admin:
-- Manage users
-- Manage stores
-- Platform-level analytics
+`JWT authentication` `Role-based access control` `User registration & login` `Store discovery & search` `Customer ratings` `Store-owner reputation dashboard` `Admin operations console` `Rating analytics` `PostgreSQL relational database` `Prisma ORM` `Zod validation` `Production deployment`
 
-Verified StoreRate technology:
+**Tech Stack**
 
-React
-Vite
-Node.js
-Express.js
-PostgreSQL
-Prisma
-JWT
-bcryptjs
-Zod
-Axios
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![bcryptjs](https://img.shields.io/badge/bcryptjs-338033?style=flat-square)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 
-Mention relevant verified features:
+**Architecture**
 
-- JWT authentication
-- Role-based access control
-- User registration and login
-- Store discovery and search
-- Customer ratings
-- Store-owner reputation dashboard
-- Admin operations console
-- Rating analytics
-- PostgreSQL relational database
-- Prisma ORM
-- Zod validation
-- Production deployment
-
-Architecture:
-
+```
 GitHub → Vercel → React Frontend → Render → Express API → PostgreSQL
+```
 
-StoreRate links:
+<a href="https://storerate-tau.vercel.app/">🚀 Live Demo</a> &nbsp;•&nbsp; <a href="https://github.com/Prajvalinjar/StoreRate">💻 Source Code</a>
 
-Live Demo:
-https://storerate-tau.vercel.app/
+<br/>
 
-Source:
-https://github.com/Prajvalinjar/StoreRate
-
-==================================================
-RESUMEIQ AI
-==================================================
-
-Keep ResumeIQ AI as the second featured project.
-
-Title:
-
-ResumeIQ AI — AI-Powered Resume Analyzer
-
-Description:
+### 📄 ResumeIQ AI — AI-Powered Resume Analyzer
 
 An AI-assisted resume analysis platform designed to help candidates understand resume quality, ATS compatibility, skills, and improvement opportunities.
 
-Verified features:
+**Key Features**
 
-- Resume upload and analysis
-- ATS-oriented scoring
-- Skill extraction
-- Resume insights
-- Missing skill identification
-- Personalized recommendations
-- Report generation
-- Cloud deployment
+`Resume upload and analysis` `ATS-oriented scoring` `Skill extraction` `Resume insights` `Missing skill identification` `Personalized recommendations` `Report generation` `Cloud deployment`
 
-Verified technologies:
+**Tech Stack**
 
-Next.js
-React
-Python
-Pandas
-NumPy
-Supabase
-Vercel
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-Links:
+<a href="https://resumeiq-ai-self.vercel.app/">🚀 Live Demo</a> &nbsp;•&nbsp; <a href="https://github.com/Prajvalinjar/resumeiq-ai">💻 Source Code</a>
 
-Live:
-https://resumeiq-ai-self.vercel.app/
+---
 
-Repository:
-https://github.com/Prajvalinjar/resumeiq-ai
+## 🧰 Technology Ecosystem
 
-==================================================
-TECHNOLOGY ECOSYSTEM
-==================================================
+**Languages**
+<br/>
+![Python](https://skillicons.dev/icons?i=py) ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=js) ![SQL](https://skillicons.dev/icons?i=mysql)
 
-Create a visually clean technology section.
+**Frontend**
+<br/>
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-Languages:
-Python, Java, JavaScript, SQL
+**Backend**
+<br/>
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express)
 
-Frontend:
-HTML, CSS, React, Next.js, Tailwind
+**Databases**
+<br/>
+![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Supabase](https://skillicons.dev/icons?i=supabase)
 
-Backend:
-Node.js, Express
+**Data & AI**
+<br/>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-Databases:
-PostgreSQL, MySQL, Supabase
+**Tools & Cloud**
+<br/>
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Linux](https://skillicons.dev/icons?i=linux) ![Vercel](https://skillicons.dev/icons?i=vercel)
 
-Data & AI:
-Pandas, NumPy, OpenCV
+---
 
-Tools & Cloud:
-Git, GitHub, VS Code, Linux, Vercel
+## ⚙️ How I Build
 
-Use skillicons where appropriate.
+```
+Requirements → UI/UX → Frontend → REST API → Database → Data/AI → Testing → Deployment → Production Product
+```
 
-Do not add technologies that are not already verified.
+<div align="center">
 
-==================================================
-HOW I BUILD
-==================================================
+**Secure • Scalable • Maintainable • User-focused • Data-driven • Production-ready**
 
-Use a compact visual workflow:
+</div>
 
-Requirements
-↓
-UI / UX
-↓
-Frontend
-↓
-REST API
-↓
-Database
-↓
-Data / AI
-↓
-Testing
-↓
-Deployment
-↓
-Production Product
+---
 
-Then show engineering priorities:
+## 📊 GitHub Analytics
 
-Secure • Scalable • Maintainable • User-focused • Data-driven • Production-ready
+<div align="center">
 
-==================================================
-GITHUB ANALYTICS
-==================================================
+<img src="https://github-readme-stats.vercel.app/api?username=Prajvalinjar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajvalinjar&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
 
-Keep:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajvalinjar&theme=tokyonight&hide_border=true" width="49%"/>
 
-GitHub stats
-Top languages
-Streak
-GitHub profile trophies
+</div>
 
-Use the existing username:
+<details>
+<summary>🏆 GitHub Trophies</summary>
+<br/>
 
-Prajvalinjar
+<div align="center">
 
-Keep the section visually balanced.
+<img src="https://github-profile-trophy.vercel.app/?username=Prajvalinjar&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-Do not overload the page with too many analytics widgets.
+</div>
+</details>
 
-==================================================
-CONTRIBUTION ACTIVITY
-==================================================
+---
 
-Keep the GitHub activity graph.
+## 📈 Contribution Activity
 
-Use:
+<div align="center">
 
-https://github-readme-activity-graph.vercel.app/graph?username=Prajvalinjar&theme=tokyo-night&hide_border=true&area=true
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajvalinjar&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
-==================================================
-DEVELOPER JOURNEY
-==================================================
+</div>
 
-Keep a concise timeline:
+---
 
-2024
-Programming Foundations
-Web Development
-Databases
-Programming Fundamentals
+## 🛤️ Developer Journey
 
-2025
-Full Stack Development
-Python
-Data Analysis
-AI/ML Exploration
-Real-World Projects
+**2024** — Programming Foundations · Web Development · Databases · Programming Fundamentals
 
-2026
-Production Applications
-Backend Engineering
-Cloud Deployment
-AI-Powered Products
+**2025** — Full Stack Development · Python · Data Analysis · AI/ML Exploration · Real-World Projects
 
-2027
-Industry-Ready Software Engineer
+**2026** — Production Applications · Backend Engineering · Cloud Deployment · AI-Powered Products
 
-Do not fabricate exact dates or achievements.
+**2027** — Industry-Ready Software Engineer
 
-==================================================
-WHAT I'M LOOKING FOR
-==================================================
+---
 
-Use:
-
-# 💼 What I'm Looking For
+## 💼 What I'm Looking For
 
 I'm interested in opportunities involving:
 
-Full Stack Development • Data • AI • Backend Systems • Product Engineering
+**Full Stack Development • Data • AI • Backend Systems • Product Engineering**
 
-Open To:
+Open to:
 
 - Software Development Internships
 - Full Stack Development Roles
@@ -501,107 +219,40 @@ Open To:
 - AI-powered application development
 - Product-focused engineering teams
 
-==================================================
-CURRENTLY BUILDING
-==================================================
+---
 
-Keep a short section:
+## 🔨 Currently Building
 
-IDEA → BUILD → TEST → DEPLOY → IMPROVE
+<div align="center">
 
-Software Engineering + Data + AI
+**IDEA → BUILD → TEST → DEPLOY → IMPROVE**
 
-Do not make this section too large.
+*Software Engineering + Data + AI*
 
-==================================================
-FINAL CONTACT SECTION
-==================================================
+</div>
 
-Keep this section minimal.
+---
 
-Do NOT repeat large badges.
+## 📬 Let's Connect
 
-Use clean text links:
+<div align="center">
 
-Portfolio
-LinkedIn
-Email
-GitHub
+🌐 <a href="https://www.prajvalinjar.blog/">Portfolio</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+💼 <a href="https://www.linkedin.com/in/prajval-injar-8529aa2b2">LinkedIn</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+✉️ <a href="mailto:injarprajval@gmail.com">Email</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+💻 <a href="https://github.com/Prajvalinjar">GitHub</a>
 
-Example:
+</div>
 
-🌐 Portfolio
-💼 LinkedIn
-✉️ Email
-💻 GitHub
+---
 
-Each should be directly clickable.
+<div align="center">
 
-==================================================
-FOOTER
-==================================================
+**Build. Learn. Deploy. Repeat.**
 
-Keep:
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0891b2,100:0f172a&section=footer" width="100%"/>
 
-Build. Learn. Deploy. Repeat.
-
-Use the capsule-render waving footer.
-
-==================================================
-DESIGN RULES
-==================================================
-
-The final README should follow these rules:
-
-1. Premium futuristic developer aesthetic.
-2. Dark navy / blue / cyan visual identity.
-3. Clean spacing.
-4. No excessive badge usage.
-5. Top navigation links must look like links.
-6. Only status information should use badges.
-7. Avoid card-like navigation.
-8. Avoid excessive emojis.
-9. Keep emojis primarily for section headings and small visual cues.
-10. Maintain strong recruiter readability.
-11. StoreRate should remain the strongest featured project.
-12. ResumeIQ AI should remain second.
-13. Do not make the README unnecessarily huge.
-14. Keep sections visually separated with `---`.
-15. Use centered content only where it improves presentation.
-16. Avoid excessive blank lines.
-17. Make the first screen visually strong.
-18. The first screen should communicate:
-    - Who I am
-    - What I build
-    - My primary technologies
-    - Portfolio
-    - LinkedIn
-    - Email
-    - StoreRate
-    - GitHub
-    - Open-to-work status
-19. Links should be immediately recognizable as clickable.
-20. Do not use huge rectangular badges for normal navigation links.
-21. Keep the README mobile-friendly as much as GitHub Markdown allows.
-22. Ensure all HTML tags are properly closed.
-23. Ensure all Markdown is valid.
-24. Ensure every link uses the exact URLs provided above.
-25. Do not invent any information.
-
-==================================================
-FINAL OUTPUT REQUIREMENT
-==================================================
-
-Return ONLY the COMPLETE FINAL README.md CONTENT inside ONE SINGLE markdown code block.
-
-Do not give explanations before or after it.
-
-Do not split the README into multiple code blocks.
-
-Do not give separate snippets.
-
-I want to copy the entire response directly into:
-
-README.md
-
-The final result should look like a polished personal developer landing page rather than a collection of badges.
+</div>
